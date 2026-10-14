@@ -1,0 +1,262 @@
+[
+  {
+    "id": "q01",
+    "question": "What is a need?",
+    "options": [
+      "Something essential for health or daily life",
+      "Anything advertised online",
+      "A new video game",
+      "A trendy brand"
+    ],
+    "answer": 0,
+    "explanation": "Needs include essentials such as food, safe housing, and necessary clothing.",
+    "topic": "mindset"
+  },
+  {
+    "id": "q02",
+    "question": "You have $40 and spend $15. How much remains?",
+    "options": [
+      "$15",
+      "$20",
+      "$25",
+      "$30"
+    ],
+    "answer": 2,
+    "explanation": "40 \u2212 15 = 25.",
+    "topic": "budgeting"
+  },
+  {
+    "id": "q03",
+    "question": "Which is a savings goal?",
+    "options": [
+      "Buy whatever looks fun",
+      "Set aside $5 weekly for a $40 bike helmet",
+      "Spend all gifts immediately",
+      "Ignore prices"
+    ],
+    "answer": 1,
+    "explanation": "A savings goal has a purpose and a plan.",
+    "topic": "saving"
+  },
+  {
+    "id": "q04",
+    "question": "What does a budget do?",
+    "options": [
+      "Guarantees wealth",
+      "Tracks a plan for money coming in and going out",
+      "Stops every purchase",
+      "Makes prices lower"
+    ],
+    "answer": 1,
+    "explanation": "A budget helps plan income, spending, and saving.",
+    "topic": "entrepreneurship"
+  },
+  {
+    "id": "q05",
+    "question": "Which purchase is most likely a want?",
+    "options": [
+      "Required school supplies",
+      "Prescription medicine",
+      "A second decorative phone case",
+      "Basic groceries"
+    ],
+    "answer": 2,
+    "explanation": "A decorative extra is usually optional.",
+    "topic": "safety"
+  },
+  {
+    "id": "q06",
+    "question": "What is opportunity cost?",
+    "options": [
+      "Sales tax",
+      "The next-best option given up when choosing",
+      "A store discount",
+      "Money earned from work"
+    ],
+    "answer": 1,
+    "explanation": "Choosing one option means giving up another.",
+    "topic": "mindset"
+  },
+  {
+    "id": "q07",
+    "question": "You save $8 each week for 5 weeks. Total?",
+    "options": [
+      "$13",
+      "$32",
+      "$40",
+      "$48"
+    ],
+    "answer": 2,
+    "explanation": "8 \u00d7 5 = 40.",
+    "topic": "budgeting"
+  },
+  {
+    "id": "q08",
+    "question": "Which is a smart response to a limited-time sale?",
+    "options": [
+      "Buy before thinking",
+      "Compare price with your needs and budget",
+      "Borrow money immediately",
+      "Assume all discounts save money"
+    ],
+    "answer": 1,
+    "explanation": "Pause and compare the purchase to your priorities.",
+    "topic": "saving"
+  },
+  {
+    "id": "q09",
+    "question": "What is income?",
+    "options": [
+      "Money received from work or other sources",
+      "Money you owe",
+      "The price of an item",
+      "A spending plan"
+    ],
+    "answer": 0,
+    "explanation": "Income is money received.",
+    "topic": "entrepreneurship"
+  },
+  {
+    "id": "q10",
+    "question": "Which is an example of a recurring expense?",
+    "options": [
+      "One-time birthday gift",
+      "Monthly music subscription",
+      "A free library book",
+      "A found coin"
+    ],
+    "answer": 1,
+    "explanation": "Subscriptions often repeat on a schedule.",
+    "topic": "safety"
+  },
+  {
+    "id": "q11",
+    "question": "You have $30; supplies cost $18. How much can you save?",
+    "options": [
+      "$8",
+      "$12",
+      "$18",
+      "$48"
+    ],
+    "answer": 1,
+    "explanation": "30 \u2212 18 = 12.",
+    "topic": "mindset"
+  },
+  {
+    "id": "q12",
+    "question": "What does profit mean in a simple business?",
+    "options": [
+      "Revenue minus expenses",
+      "Total sales before costs",
+      "Money borrowed",
+      "Price of one product"
+    ],
+    "answer": 0,
+    "explanation": "Profit equals revenue less expenses.",
+    "topic": "budgeting"
+  },
+  {
+    "id": "q13",
+    "question": "Sell 10 bracelets at $4 each. Revenue?",
+    "options": [
+      "$14",
+      "$20",
+      "$40",
+      "$44"
+    ],
+    "answer": 2,
+    "explanation": "10 \u00d7 4 = 40.",
+    "topic": "saving"
+  },
+  {
+    "id": "q14",
+    "question": "Sales revenue is $50 and costs are $35. Profit?",
+    "options": [
+      "$15",
+      "$35",
+      "$50",
+      "$85"
+    ],
+    "answer": 0,
+    "explanation": "50 \u2212 35 = 15.",
+    "topic": "entrepreneurship"
+  },
+  {
+    "id": "q15",
+    "question": "Which is a safe way to protect payment details?",
+    "options": [
+      "Share PIN with friends",
+      "Use trusted adults and keep PIN private",
+      "Post card photos online",
+      "Reuse a stranger\u2019s account"
+    ],
+    "answer": 1,
+    "explanation": "Keep sensitive payment information private and ask a trusted adult for help.",
+    "topic": "safety"
+  },
+  {
+    "id": "q16",
+    "question": "Why compare unit prices?",
+    "options": [
+      "To find the better value for the amount",
+      "To buy the largest package always",
+      "To avoid checking quantities",
+      "To remove sales tax"
+    ],
+    "answer": 0,
+    "explanation": "Unit prices help compare different package sizes.",
+    "topic": "mindset"
+  },
+  {
+    "id": "q17",
+    "question": "A $12 item has $3 tax. Total cost?",
+    "options": [
+      "$9",
+      "$12",
+      "$15",
+      "$36"
+    ],
+    "answer": 2,
+    "explanation": "12 + 3 = 15.",
+    "topic": "budgeting"
+  },
+  {
+    "id": "q18",
+    "question": "What is an emergency fund for?",
+    "options": [
+      "Unexpected necessary expenses",
+      "Daily impulse purchases",
+      "Buying every sale item",
+      "Increasing a store discount"
+    ],
+    "answer": 0,
+    "explanation": "Emergency savings help with unplanned needs.",
+    "topic": "saving"
+  },
+  {
+    "id": "q19",
+    "question": "Which statement about investing is accurate?",
+    "options": [
+      "Returns are guaranteed",
+      "Investments can gain or lose value",
+      "All investments are identical",
+      "Investing removes risk"
+    ],
+    "answer": 1,
+    "explanation": "Investments involve risk, including possible loss.",
+    "topic": "entrepreneurship"
+  },
+  {
+    "id": "q20",
+    "question": "What is a good first step when overwhelmed by money decisions?",
+    "options": [
+      "Ignore every expense",
+      "List what you have, need, and want",
+      "Buy something to feel better",
+      "Take a loan without asking"
+    ],
+    "answer": 1,
+    "explanation": "A simple overview makes decisions easier.",
+    "topic": "safety"
+  }
+]

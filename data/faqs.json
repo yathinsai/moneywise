@@ -1,0 +1,102 @@
+[
+  {
+    "id": "f01",
+    "question": "What is financial literacy?",
+    "answer": "Knowing how to make informed choices about earning, spending, saving, and borrowing."
+  },
+  {
+    "id": "f02",
+    "question": "What is a need versus a want?",
+    "answer": "A need is essential; a want is optional. Context matters."
+  },
+  {
+    "id": "f03",
+    "question": "Do middle schoolers need a budget?",
+    "answer": "A simple plan for allowance, gifts, or earnings can help."
+  },
+  {
+    "id": "f04",
+    "question": "What if I do not get allowance?",
+    "answer": "You can practice using fictional budgets and plan for occasional gift money."
+  },
+  {
+    "id": "f05",
+    "question": "How do I start saving?",
+    "answer": "Pick a goal, amount, and timeline; set aside a manageable portion when you receive money."
+  },
+  {
+    "id": "f06",
+    "question": "What is an emergency fund?",
+    "answer": "Money reserved for unexpected necessary costs."
+  },
+  {
+    "id": "f07",
+    "question": "Should I buy something on sale?",
+    "answer": "Only if it fits your priorities and budget; a discount is not automatic savings."
+  },
+  {
+    "id": "f08",
+    "question": "What is peer pressure spending?",
+    "answer": "Buying things mainly to fit in or avoid feeling left out."
+  },
+  {
+    "id": "f09",
+    "question": "How can I resist impulse buys?",
+    "answer": "Wait, check your goal, and compare options."
+  },
+  {
+    "id": "f10",
+    "question": "What is opportunity cost?",
+    "answer": "The next-best alternative you give up when making a choice."
+  },
+  {
+    "id": "f11",
+    "question": "What is income?",
+    "answer": "Money received from work, gifts, or other sources."
+  },
+  {
+    "id": "f12",
+    "question": "What is an expense?",
+    "answer": "Money spent on goods or services."
+  },
+  {
+    "id": "f13",
+    "question": "What is a recurring expense?",
+    "answer": "A cost that repeats, such as a monthly subscription."
+  },
+  {
+    "id": "f14",
+    "question": "What is revenue?",
+    "answer": "Total money received from sales before expenses."
+  },
+  {
+    "id": "f15",
+    "question": "What is profit?",
+    "answer": "Revenue minus business expenses."
+  },
+  {
+    "id": "f16",
+    "question": "Is investing risk-free?",
+    "answer": "No. Investments can lose value; learn the basics with a trusted adult before investing."
+  },
+  {
+    "id": "f17",
+    "question": "What is interest?",
+    "answer": "Interest can be money earned on savings or money charged for borrowing."
+  },
+  {
+    "id": "f18",
+    "question": "What is credit?",
+    "answer": "An agreement to borrow money and repay it, often with conditions or interest."
+  },
+  {
+    "id": "f19",
+    "question": "How do I keep money information safe?",
+    "answer": "Keep PINs and passwords private; ask a trusted adult before sharing payment details."
+  },
+  {
+    "id": "f20",
+    "question": "What if I make a money mistake?",
+    "answer": "Review what happened, adjust your plan, and try a better choice next time."
+  }
+]

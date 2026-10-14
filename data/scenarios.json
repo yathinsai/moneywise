@@ -1,0 +1,132 @@
+[
+  {
+    "id": "s01",
+    "title": "Birthday Money",
+    "situation": "$100 birthday gift; you want to save $60 for a school trip.",
+    "choices": [
+      "Spend $80 on sneakers",
+      "Spend $20 on a game and save $80",
+      "Spend $100 on accessories"
+    ],
+    "best": 1,
+    "explanation": "The middle choice meets the savings goal while allowing some fun.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s02",
+    "title": "School Supplies",
+    "situation": "You have $50. Supplies cost $20 and you want to save $15.",
+    "choices": [
+      "Spend $30 on snacks",
+      "Spend $15 on entertainment",
+      "Spend $40 on a game"
+    ],
+    "best": 1,
+    "explanation": "After $20 supplies and $15 savings, $15 remains.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s03",
+    "title": "Mini Business",
+    "situation": "You sell 20 bookmarks at $3 each. Supplies cost $30. What is profit?",
+    "choices": [
+      "$30",
+      "$60",
+      "$90"
+    ],
+    "best": 0,
+    "explanation": "Revenue is $60; $60 \u2212 $30 = $30 profit.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s04",
+    "title": "Subscription Check",
+    "situation": "You get $25 allowance monthly. A game pass costs $10 per month.",
+    "choices": [
+      "Keep it and review other expenses",
+      "Pretend the subscription is free",
+      "Sign up for three more"
+    ],
+    "best": 0,
+    "explanation": "Recurring costs should fit your monthly plan.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s05",
+    "title": "Friend Pressure",
+    "situation": "Friends want matching $45 hoodies. You have $50 saved for a $60 goal.",
+    "choices": [
+      "Buy immediately",
+      "Explain your goal and wait",
+      "Borrow $45 secretly"
+    ],
+    "best": 1,
+    "explanation": "You can respect friendships without abandoning your goals.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s06",
+    "title": "Unexpected Expense",
+    "situation": "Your bike tire repair costs $18. You saved $30 for surprises.",
+    "choices": [
+      "Use $18 from savings",
+      "Ignore the repair and spend $30",
+      "Borrow money without asking"
+    ],
+    "best": 0,
+    "explanation": "Savings can help cover unexpected necessary costs.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s07",
+    "title": "Snack Comparison",
+    "situation": "One snack pack costs $6 for 3 bars; another $8 for 4 bars.",
+    "choices": [
+      "First is cheaper per bar",
+      "Both cost $2 per bar",
+      "Second costs $4 per bar"
+    ],
+    "best": 1,
+    "explanation": "$6/3 = $2 and $8/4 = $2 per bar.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s08",
+    "title": "Online Deal",
+    "situation": "An ad says \u201cOnly 10 minutes left!\u201d for a $35 gadget.",
+    "choices": [
+      "Check your budget and compare alternatives",
+      "Purchase without thinking",
+      "Share card details in comments"
+    ],
+    "best": 0,
+    "explanation": "Urgency in advertising is not a reason to skip your plan.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s09",
+    "title": "Fundraiser",
+    "situation": "You raise $120 selling crafts and spend $75 on materials.",
+    "choices": [
+      "Profit is $45",
+      "Profit is $75",
+      "Profit is $120"
+    ],
+    "best": 0,
+    "explanation": "Profit is revenue minus costs: $120 \u2212 $75 = $45.",
+    "reflection": "What tradeoff influenced your choice?"
+  },
+  {
+    "id": "s10",
+    "title": "Saving Habit",
+    "situation": "You want $72 for a project in 12 weeks.",
+    "choices": [
+      "Save $3 each week",
+      "Save $6 each week",
+      "Save $4 each week"
+    ],
+    "best": 1,
+    "explanation": "$72 / 12 weeks = $6 each week.",
+    "reflection": "What tradeoff influenced your choice?"
+  }
+]
