@@ -1,4 +1,4 @@
-# MoneyWise Gen Z v2
+# MoneyWise Gen Z
 
 A lightweight student-led financial literacy MVP for grades 6–8.
 
